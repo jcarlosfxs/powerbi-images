@@ -1,0 +1,331 @@
+﻿archivo_original,nombre_salida,origen_nombre,rostro_detectado,confianza_rostro,peso_kb,estado,detalle
+2evepng.png,2evepng.jpg,ORIGINAL,SI,0.9593,20.3,OK,Sin coincidencia en Excel; se conserva nombre original
+AMERICO CALDERON con saco.png,AMERICO_CALDERON_con_saco.jpg,ORIGINAL,SI,0.9745,22.7,OK,Sin coincidencia en Excel; se conserva nombre original
+AMERICO2.png,AMERICO2.jpg,ORIGINAL,SI,0.9744,31.1,OK,Sin coincidencia en Excel; se conserva nombre original
+FRANK GARCIA2.png,FRANK_GARCIA2.jpg,ORIGINAL,SI,0.9852,29.8,OK,Sin coincidencia en Excel; se conserva nombre original
+IMG_0393.png,Omar_Leon.jpg,EXCEL,SI,0.9714,19.4,OK,Nombre tomado del Excel
+IMG_0394.png,IMG_0394.jpg,ORIGINAL,SI,0.9757,17.5,OK,Sin coincidencia en Excel; se conserva nombre original
+IMG_0398.png,Renato_Gentille.jpg,EXCEL,SI,0.9705,21.6,OK,Nombre tomado del Excel
+IMG_0402.png,IMG_0402.jpg,ORIGINAL,SI,0.983,19.4,OK,Sin coincidencia en Excel; se conserva nombre original
+IMG_0408.png,Cristian_Salazar.jpg,EXCEL,SI,0.9783,19.4,OK,Nombre tomado del Excel
+IMG_0410.png,IMG_0410.jpg,ORIGINAL,SI,0.9742,17.0,OK,Sin coincidencia en Excel; se conserva nombre original
+IMG_0426.png,Jose_Guillen.jpg,EXCEL,SI,0.9856,16.3,OK,Nombre tomado del Excel
+IMG_0429.png,IMG_0429.jpg,ORIGINAL,SI,0.9827,18.2,OK,Sin coincidencia en Excel; se conserva nombre original
+IMG_0440.png,Angela_Bahamonde.jpg,EXCEL,SI,0.5462,17.4,OK,Nombre tomado del Excel
+IMG_0443.png,IMG_0443.jpg,ORIGINAL,SI,0.9682,19.1,OK,Sin coincidencia en Excel; se conserva nombre original
+IMG_0456.png,Ronald_Lizarbe.jpg,EXCEL,SI,0.9343,19.1,OK,Nombre tomado del Excel
+IMG_0464.png,IMG_0464.jpg,ORIGINAL,SI,0.9766,18.9,OK,Sin coincidencia en Excel; se conserva nombre original
+IMG_0507.png,Paloma_Lessel.jpg,EXCEL,SI,0.9766,18.7,OK,Nombre tomado del Excel
+IMG_0515.png,IMG_0515.jpg,ORIGINAL,SI,0.9554,18.9,OK,Sin coincidencia en Excel; se conserva nombre original
+IMG_0520.png,Jocelyn_Hasinger.jpg,EXCEL,SI,0.9906,27.3,OK,Nombre tomado del Excel
+IMG_0548.png,IMG_0548.jpg,ORIGINAL,SI,0.9643,25.6,OK,Sin coincidencia en Excel; se conserva nombre original
+IMG_0626.png,Yily_Berrocal.jpg,EXCEL,SI,0.9749,21.9,OK,Nombre tomado del Excel
+IMG_0632.png,IMG_0632.jpg,ORIGINAL,SI,0.9876,20.8,OK,Sin coincidencia en Excel; se conserva nombre original
+IMG_0642.png,Jose_Ramos.jpg,EXCEL,SI,0.5819,18.5,OK,Nombre tomado del Excel
+IMG_0646.png,IMG_0646.jpg,ORIGINAL,SI,0.9787,17.2,OK,Sin coincidencia en Excel; se conserva nombre original
+IMG_0658.png,Javier_Aldave.jpg,EXCEL,SI,0.936,14.7,OK,Nombre tomado del Excel
+IMG_0671.png,IMG_0671.jpg,ORIGINAL,SI,0.9779,18.0,OK,Sin coincidencia en Excel; se conserva nombre original
+IMG_0690.png,Rocio_Garcia.jpg,EXCEL,SI,0.967,46.7,OK,Nombre tomado del Excel
+IMG_0694.png,IMG_0694.jpg,ORIGINAL,SI,0.985,48.4,OK,Sin coincidencia en Excel; se conserva nombre original
+IMG_0751.png,Cesar_Osorio.jpg,EXCEL,SI,0.9759,19.3,OK,Nombre tomado del Excel
+IMG_0757.png,IMG_0757.jpg,ORIGINAL,SI,0.5546,14.2,OK,Sin coincidencia en Excel; se conserva nombre original
+IMG_0763.png,Victor_Aylas.jpg,EXCEL,SI,0.9656,19.0,OK,Nombre tomado del Excel
+IMG_0776.png,IMG_0776.jpg,ORIGINAL,SI,0.9531,21.3,OK,Sin coincidencia en Excel; se conserva nombre original
+IMG_0783.png,Miguel_Tapia.jpg,EXCEL,SI,0.9764,21.9,OK,Nombre tomado del Excel
+IMG_0789.png,IMG_0789.jpg,ORIGINAL,SI,0.9619,19.2,OK,Sin coincidencia en Excel; se conserva nombre original
+IMG_0808.png,Manuel_Rodriguez.jpg,EXCEL,SI,0.9609,17.4,OK,Nombre tomado del Excel
+IMG_0812.png,IMG_0812.jpg,ORIGINAL,SI,0.9774,14.9,OK,Sin coincidencia en Excel; se conserva nombre original
+IMG_0817.png,Wilmer_Lliachua.jpg,EXCEL,SI,0.9722,22.0,OK,Nombre tomado del Excel
+IMG_0822.png,IMG_0822.jpg,ORIGINAL,SI,0.9843,23.3,OK,Sin coincidencia en Excel; se conserva nombre original
+IMG_0834.png,Franzua_Torrejon.jpg,EXCEL,SI,0.9547,15.9,OK,Nombre tomado del Excel
+IMG_0840.png,IMG_0840.jpg,ORIGINAL,SI,0.9735,16.7,OK,Sin coincidencia en Excel; se conserva nombre original
+IMG_0851.png,Ariana_Yangaly.jpg,EXCEL,SI,0.9841,24.6,OK,Nombre tomado del Excel
+IMG_0864.png,IMG_0864.jpg,ORIGINAL,SI,0.9871,18.7,OK,Sin coincidencia en Excel; se conserva nombre original
+IMG_0872.png,Alicia_Rivera.jpg,EXCEL,SI,0.9792,25.9,OK,Nombre tomado del Excel
+IMG_0893.png,IMG_0893.jpg,ORIGINAL,SI,0.9741,26.9,OK,Sin coincidencia en Excel; se conserva nombre original
+IMG_0915.png,Catherine_Rojas.jpg,EXCEL,SI,0.9796,26.4,OK,Nombre tomado del Excel
+IMG_0922.png,IMG_0922.jpg,ORIGINAL,SI,0.9753,21.4,OK,Sin coincidencia en Excel; se conserva nombre original
+IMG_0966.png,Fiorella_Yanez.jpg,EXCEL,SI,0.9784,22.2,OK,Nombre tomado del Excel
+IMG_0967.png,IMG_0967.jpg,ORIGINAL,SI,0.9731,22.6,OK,Sin coincidencia en Excel; se conserva nombre original
+IMG_0990.png,Alfredo_Merida.jpg,EXCEL,SI,0.9733,14.9,OK,Nombre tomado del Excel
+IMG_1004.png,IMG_1004.jpg,ORIGINAL,SI,0.9726,17.5,OK,Sin coincidencia en Excel; se conserva nombre original
+IMG_1016.png,Diego_Cuentas.jpg,EXCEL,SI,0.9855,22.4,OK,Nombre tomado del Excel
+IMG_1028.png,IMG_1028.jpg,ORIGINAL,SI,0.9614,20.1,OK,Sin coincidencia en Excel; se conserva nombre original
+IMG_1040.png,Alirio_Latiegue.jpg,EXCEL,SI,0.9394,15.9,OK,Nombre tomado del Excel
+IMG_1054.png,IMG_1054.jpg,ORIGINAL,SI,0.9818,14.4,OK,Sin coincidencia en Excel; se conserva nombre original
+IMG_1062.png,Miriam_Alva.jpg,EXCEL,SI,0.9819,17.9,OK,Nombre tomado del Excel
+IMG_1073.png,IMG_1073.jpg,ORIGINAL,SI,0.9931,20.1,OK,Sin coincidencia en Excel; se conserva nombre original
+IMG_1081.png,Pilar_Conza.jpg,EXCEL,SI,0.9887,19.2,OK,Nombre tomado del Excel
+IMG_1091.png,IMG_1091.jpg,ORIGINAL,SI,0.9842,21.3,OK,Sin coincidencia en Excel; se conserva nombre original
+IMG_1106.png,Saul_Infanza.jpg,EXCEL,SI,0.9622,42.8,OK,Nombre tomado del Excel
+IMG_1119.png,IMG_1119.jpg,ORIGINAL,SI,0.9653,39.2,OK,Sin coincidencia en Excel; se conserva nombre original
+IMG_1127.png,Joel_Padilla.jpg,EXCEL,SI,0.988,23.2,OK,Nombre tomado del Excel
+IMG_1131.png,IMG_1131.jpg,ORIGINAL,SI,0.9864,22.5,OK,Sin coincidencia en Excel; se conserva nombre original
+IMG_1134.png,Luis_Minaya.jpg,EXCEL,SI,0.9559,19.9,OK,Nombre tomado del Excel
+IMG_1137.png,IMG_1137.jpg,ORIGINAL,SI,0.9201,22.1,OK,Sin coincidencia en Excel; se conserva nombre original
+IMG_1139.png,Idino_Quispe.jpg,EXCEL,SI,0.9795,18.1,OK,Nombre tomado del Excel
+IMG_1147.png,IMG_1147.jpg,ORIGINAL,SI,0.9811,17.7,OK,Sin coincidencia en Excel; se conserva nombre original
+IMG_1154.png,GianCarlo_Montoya.jpg,EXCEL,SI,0.9812,17.7,OK,Nombre tomado del Excel
+IMG_1157.png,IMG_1157.jpg,ORIGINAL,SI,0.967,17.4,OK,Sin coincidencia en Excel; se conserva nombre original
+IMG_1166.png,Denis_Valente.jpg,EXCEL,SI,0.9834,17.1,OK,Nombre tomado del Excel
+IMG_1171.png,IMG_1171.jpg,ORIGINAL,SI,0.9809,17.5,OK,Sin coincidencia en Excel; se conserva nombre original
+IMG_1184.png,Andy_Mallco.jpg,EXCEL,SI,0.9729,16.6,OK,Nombre tomado del Excel
+IMG_1194.png,IMG_1194.jpg,ORIGINAL,SI,0.4817,16.8,OK,Sin coincidencia en Excel; se conserva nombre original
+IMG_1203.png,Abigail_Ticlavilca.jpg,EXCEL,SI,0.9786,29.2,OK,Nombre tomado del Excel
+IMG_1231.png,IMG_1231.jpg,ORIGINAL,SI,0.9728,31.4,OK,Sin coincidencia en Excel; se conserva nombre original
+IMG_1232.png,Alan_Torcello.jpg,EXCEL,SI,0.9323,21.7,OK,Nombre tomado del Excel
+IMG_1235.png,IMG_1235.jpg,ORIGINAL,SI,0.9731,22.7,OK,Sin coincidencia en Excel; se conserva nombre original
+IMG_1242.png,Omar_Salazar.jpg,EXCEL,SI,0.9522,17.5,OK,Nombre tomado del Excel
+IMG_1250.png,IMG_1250.jpg,ORIGINAL,SI,0.6004,19.8,OK,Sin coincidencia en Excel; se conserva nombre original
+IMG_1257.png,Roberto_Timoteo.jpg,EXCEL,SI,0.9813,16.1,OK,Nombre tomado del Excel
+IMG_1262.png,IMG_1262.jpg,ORIGINAL,SI,0.989,18.0,OK,Sin coincidencia en Excel; se conserva nombre original
+IMG_1267.png,IMG_1267.jpg,ORIGINAL,SI,0.9783,22.6,OK,Sin coincidencia en Excel; se conserva nombre original
+IMG_1276 falta nombre.png,IMG_1276_falta_nombre.jpg,ORIGINAL,SI,0.9753,21.9,OK,Sin coincidencia en Excel; se conserva nombre original
+IMG_1280.png,Angel_Romero.jpg,EXCEL,SI,0.9454,16.1,OK,Nombre tomado del Excel
+IMG_1286.png,IMG_1286.jpg,ORIGINAL,SI,0.9576,17.6,OK,Sin coincidencia en Excel; se conserva nombre original
+IMG_1293.png,Jake_Salvatierra.jpg,EXCEL,SI,0.9723,16.8,OK,Nombre tomado del Excel
+IMG_1298.png,IMG_1298.jpg,ORIGINAL,SI,0.9654,17.8,OK,Sin coincidencia en Excel; se conserva nombre original
+IMG_1310.png,Carlos_Jimenez.jpg,EXCEL,SI,0.9813,14.9,OK,Nombre tomado del Excel
+IMG_1316.png,IMG_1316.jpg,ORIGINAL,SI,0.9722,16.9,OK,Sin coincidencia en Excel; se conserva nombre original
+IMG_1322.png,Maximo_Flores.jpg,EXCEL,SI,0.9589,19.8,OK,Nombre tomado del Excel
+IMG_1327.png,IMG_1327.jpg,ORIGINAL,SI,0.9686,20.0,OK,Sin coincidencia en Excel; se conserva nombre original
+IMG_1340.png,Luis_Quispe.jpg,EXCEL,SI,0.9718,21.0,OK,Nombre tomado del Excel
+IMG_1348.png,IMG_1348.jpg,ORIGINAL,SI,0.9681,19.8,OK,Sin coincidencia en Excel; se conserva nombre original
+IMG_1352.png,David_Rodriguez.jpg,EXCEL,SI,0.9782,28.3,OK,Nombre tomado del Excel
+IMG_1359.png,IMG_1359.jpg,ORIGINAL,SI,0.9372,28.0,OK,Sin coincidencia en Excel; se conserva nombre original
+IMG_1364.png,Marvin_Perez.jpg,EXCEL,SI,0.9665,30.3,OK,Nombre tomado del Excel
+IMG_1369.png,IMG_1369.jpg,ORIGINAL,SI,0.9809,34.6,OK,Sin coincidencia en Excel; se conserva nombre original
+IMG_1380.png,Joel_Calvo.jpg,EXCEL,SI,0.971,17.1,OK,Nombre tomado del Excel
+IMG_1388.png,IMG_1388.jpg,ORIGINAL,SI,0.9248,19.1,OK,Sin coincidencia en Excel; se conserva nombre original
+IMG_1396.png,Johann_Heredia.jpg,EXCEL,SI,0.959,20.3,OK,Nombre tomado del Excel
+IMG_1405.png,IMG_1405.jpg,ORIGINAL,SI,0.9585,19.6,OK,Sin coincidencia en Excel; se conserva nombre original
+IMG_1414.png,IMG_1414.jpg,ORIGINAL,SI,0.9639,17.4,OK,Sin coincidencia en Excel; se conserva nombre original
+IMG_1417.png,Mery_Guevara.jpg,EXCEL,SI,0.9528,15.9,OK,Nombre tomado del Excel
+IMG_1429.png,Luis_Luna.jpg,EXCEL,SI,0.984,20.2,OK,Nombre tomado del Excel
+IMG_1436.png,IMG_1436.jpg,ORIGINAL,SI,0.9781,16.9,OK,Sin coincidencia en Excel; se conserva nombre original
+IMG_1446.png,IMG_1446.jpg,ORIGINAL,SI,0.9681,31.1,OK,Sin coincidencia en Excel; se conserva nombre original
+IMG_1450 hacer match con 1446 lentes.png,IMG_1450_hacer_match_con_1446_lentes.jpg,ORIGINAL,SI,0.981,27.0,OK,Sin coincidencia en Excel; se conserva nombre original
+IMG_1461.png,Hade_Pardo.jpg,EXCEL,SI,0.9599,19.0,OK,Nombre tomado del Excel
+IMG_1468.png,IMG_1468.jpg,ORIGINAL,SI,0.9909,21.3,OK,Sin coincidencia en Excel; se conserva nombre original
+IMG_1474.png,Eduardo_Jara.jpg,EXCEL,SI,0.9744,14.9,OK,Nombre tomado del Excel
+IMG_1481.png,IMG_1481.jpg,ORIGINAL,SI,0.9602,15.9,OK,Sin coincidencia en Excel; se conserva nombre original
+IMG_1485.png,Faustino_Astriori.jpg,EXCEL,SI,0.9682,19.7,OK,Nombre tomado del Excel
+IMG_1492.png,IMG_1492.jpg,ORIGINAL,SI,0.9462,21.8,OK,Sin coincidencia en Excel; se conserva nombre original
+IMG_1495.png,Miguel_Montes.jpg,EXCEL,SI,0.9846,21.9,OK,Nombre tomado del Excel
+IMG_1504.png,IMG_1504.jpg,ORIGINAL,SI,0.9746,22.6,OK,Sin coincidencia en Excel; se conserva nombre original
+IMG_1521.png,Claudia_Rodriguez.jpg,EXCEL,SI,0.9871,23.8,OK,Nombre tomado del Excel
+IMG_1525.png,IMG_1525.jpg,ORIGINAL,SI,0.9748,23.4,OK,Sin coincidencia en Excel; se conserva nombre original
+IMG_1534.png,Sergio_Calla.jpg,EXCEL,SI,0.9638,18.1,OK,Nombre tomado del Excel
+IMG_1537.png,IMG_1537.jpg,ORIGINAL,SI,0.9848,18.7,OK,Sin coincidencia en Excel; se conserva nombre original
+IMG_1547.png,Omar_Cautin.jpg,EXCEL,SI,0.9535,22.6,OK,Nombre tomado del Excel
+IMG_1550.png,IMG_1550.jpg,ORIGINAL,SI,0.9695,21.2,OK,Sin coincidencia en Excel; se conserva nombre original
+IMG_1562.png,Dubberlee_Pardo.jpg,EXCEL,SI,0.9662,16.0,OK,Nombre tomado del Excel
+IMG_1564.png,IMG_1564.jpg,ORIGINAL,SI,0.9658,16.4,OK,Sin coincidencia en Excel; se conserva nombre original
+IMG_1568.png,Kelly_Huishi.jpg,EXCEL,SI,0.9863,16.2,OK,Nombre tomado del Excel
+IMG_1576.png,IMG_1576.jpg,ORIGINAL,SI,0.9667,21.1,OK,Sin coincidencia en Excel; se conserva nombre original
+IMG_1581.png,Hector_Guerrero.jpg,EXCEL,SI,0.9751,18.6,OK,Nombre tomado del Excel
+IMG_1584.png,IMG_1584.jpg,ORIGINAL,SI,0.9813,17.1,OK,Sin coincidencia en Excel; se conserva nombre original
+IMG_1589.png,Anthony_Castaneda.jpg,EXCEL,SI,0.934,16.8,OK,Nombre tomado del Excel
+IMG_1593.png,IMG_1593.jpg,ORIGINAL,SI,0.984,19.6,OK,Sin coincidencia en Excel; se conserva nombre original
+IMG_1601.png,Maria_Aracely_Gutierrez.jpg,EXCEL,SI,0.9767,25.9,OK,Nombre tomado del Excel
+IMG_1603.png,IMG_1603.jpg,ORIGINAL,SI,0.9721,27.2,OK,Sin coincidencia en Excel; se conserva nombre original
+IMG_1609.png,Pamela_Cerquera.jpg,EXCEL,SI,0.9574,23.3,OK,Nombre tomado del Excel
+IMG_1617.png,IMG_1617.jpg,ORIGINAL,SI,0.9815,25.1,OK,Sin coincidencia en Excel; se conserva nombre original
+IMG_1623.png,Jhon_Berjar.jpg,EXCEL,SI,0.9662,20.1,OK,Nombre tomado del Excel
+IMG_1627.png,IMG_1627.jpg,ORIGINAL,SI,0.9648,18.8,OK,Sin coincidencia en Excel; se conserva nombre original
+IMG_1632.png,Jeanpool_Ferrer.jpg,EXCEL,SI,0.9811,15.1,OK,Nombre tomado del Excel
+IMG_1634.png,IMG_1634.jpg,ORIGINAL,SI,0.9823,16.5,OK,Sin coincidencia en Excel; se conserva nombre original
+IMG_1638.png,Jenny_Colque.jpg,EXCEL,SI,0.9855,23.5,OK,Nombre tomado del Excel
+IMG_1641.png,IMG_1641.jpg,ORIGINAL,SI,0.4753,22.9,OK,Sin coincidencia en Excel; se conserva nombre original
+IMG_1658.png,Carla_Riojas.jpg,EXCEL,SI,0.9852,22.4,OK,Nombre tomado del Excel
+IMG_1663.png,IMG_1663.jpg,ORIGINAL,SI,0.9393,19.7,OK,Sin coincidencia en Excel; se conserva nombre original
+IMG_1669.png,Jesus_Sopla.jpg,EXCEL,SI,0.9589,17.7,OK,Nombre tomado del Excel
+IMG_1673.png,IMG_1673.jpg,ORIGINAL,SI,0.967,17.7,OK,Sin coincidencia en Excel; se conserva nombre original
+IMG_1676.png,Antero_Constantino.jpg,EXCEL,SI,0.977,13.2,OK,Nombre tomado del Excel
+IMG_1683.png,IMG_1683.jpg,ORIGINAL,SI,0.9736,16.2,OK,Sin coincidencia en Excel; se conserva nombre original
+IMG_1688.png,Franco_Ferro.jpg,EXCEL,SI,0.9646,37.6,OK,Nombre tomado del Excel
+IMG_1695.png,IMG_1695.jpg,ORIGINAL,SI,0.9803,36.6,OK,Sin coincidencia en Excel; se conserva nombre original
+IMG_1707.png,Ingrid_Lopez.jpg,EXCEL,SI,0.985,37.6,OK,Nombre tomado del Excel
+IMG_1714.png,IMG_1714.jpg,ORIGINAL,SI,0.9878,38.2,OK,Sin coincidencia en Excel; se conserva nombre original
+IMG_1718.png,Mery_Llalla.jpg,EXCEL,SI,0.9885,24.0,OK,Nombre tomado del Excel
+IMG_1729.png,IMG_1729.jpg,ORIGINAL,SI,0.9628,24.2,OK,Sin coincidencia en Excel; se conserva nombre original
+IMG_1736.png,Paula_Castillo.jpg,EXCEL,SI,0.986,27.4,OK,Nombre tomado del Excel
+IMG_1745.png,IMG_1745.jpg,ORIGINAL,SI,0.9721,28.5,OK,Sin coincidencia en Excel; se conserva nombre original
+IMG_1749.png,Irvin_Injo.jpg,EXCEL,SI,0.9805,18.1,OK,Nombre tomado del Excel
+IMG_1753.png,IMG_1753.jpg,ORIGINAL,SI,0.9835,18.5,OK,Sin coincidencia en Excel; se conserva nombre original
+IMG_1763.png,Cesar_Tantas.jpg,EXCEL,SI,0.9655,34.9,OK,Nombre tomado del Excel
+IMG_1767.png,IMG_1767.jpg,ORIGINAL,SI,0.9777,36.1,OK,Sin coincidencia en Excel; se conserva nombre original
+IMG_1788.png,Jose_Malca.jpg,EXCEL,SI,0.9592,18.6,OK,Nombre tomado del Excel
+IMG_1793.png,IMG_1793.jpg,ORIGINAL,SI,0.9718,21.0,OK,Sin coincidencia en Excel; se conserva nombre original
+IMG_1797.png,Carlos_Perez.jpg,EXCEL,SI,0.9761,21.9,OK,Nombre tomado del Excel
+IMG_1802.png,IMG_1802.jpg,ORIGINAL,SI,0.9815,18.8,OK,Sin coincidencia en Excel; se conserva nombre original
+IMG_1808.png,Cesar_Salas.jpg,EXCEL,SI,0.9662,38.8,OK,Nombre tomado del Excel
+IMG_1810.png,IMG_1810.jpg,ORIGINAL,SI,0.98,38.8,OK,Sin coincidencia en Excel; se conserva nombre original
+IMG_1820.png,Shulmeister_Munoa.jpg,EXCEL,SI,0.9818,18.8,OK,Nombre tomado del Excel
+IMG_1832.png,IMG_1832.jpg,ORIGINAL,SI,0.9889,18.4,OK,Sin coincidencia en Excel; se conserva nombre original
+IMG_1836.png,Noelia_Quispe.jpg,EXCEL,SI,0.9861,25.6,OK,Nombre tomado del Excel
+IMG_1851.png,IMG_1851.jpg,ORIGINAL,SI,0.9611,24.5,OK,Sin coincidencia en Excel; se conserva nombre original
+IMG_1863.png,Giancarlos_Romero.jpg,EXCEL,SI,0.9856,16.7,OK,Nombre tomado del Excel
+IMG_1870.png,IMG_1870.jpg,ORIGINAL,SI,0.9683,17.5,OK,Sin coincidencia en Excel; se conserva nombre original
+IMG_1871.png,Paul_Talaverano.jpg,EXCEL,SI,0.9871,25.1,OK,Nombre tomado del Excel
+IMG_1878.png,IMG_1878.jpg,ORIGINAL,SI,0.9698,23.6,OK,Sin coincidencia en Excel; se conserva nombre original
+IMG_1884.png,Diego_Espinoza.jpg,EXCEL,SI,0.9788,33.9,OK,Nombre tomado del Excel
+IMG_1886.png,IMG_1886.jpg,ORIGINAL,SI,0.9688,33.0,OK,Sin coincidencia en Excel; se conserva nombre original
+IMG_1891.png,Jose_Luis_Ballesteros.jpg,EXCEL,SI,0.9658,19.0,OK,Nombre tomado del Excel
+IMG_1901.png,IMG_1901.jpg,ORIGINAL,SI,0.9703,20.6,OK,Sin coincidencia en Excel; se conserva nombre original
+IMG_1920.png,IMG_1920.jpg,ORIGINAL,SI,0.9801,18.6,OK,Sin coincidencia en Excel; se conserva nombre original
+IMG_1927.png,IMG_1927.jpg,ORIGINAL,SI,0.9629,18.6,OK,Sin coincidencia en Excel; se conserva nombre original
+IMG_1936.png,Edwin_Camargo.jpg,EXCEL,SI,0.9777,28.1,OK,Nombre tomado del Excel
+IMG_1944.png,IMG_1944.jpg,ORIGINAL,SI,0.9757,27.6,OK,Sin coincidencia en Excel; se conserva nombre original
+IMG_1962.png,IMG_1962.jpg,ORIGINAL,SI,0.9661,19.0,OK,Sin coincidencia en Excel; se conserva nombre original
+IMG_1965.png,IMG_1965.jpg,ORIGINAL,SI,0.9754,19.6,OK,Sin coincidencia en Excel; se conserva nombre original
+IMG_1978.png,Claudia_Cordova.jpg,EXCEL,SI,0.9868,19.1,OK,Nombre tomado del Excel
+IMG_1985.png,IMG_1985.jpg,ORIGINAL,SI,0.9837,19.7,OK,Sin coincidencia en Excel; se conserva nombre original
+IMG_1996.png,Rossiel_Barranco.jpg,EXCEL,SI,0.9802,20.7,OK,Nombre tomado del Excel
+IMG_2007.png,IMG_2007.jpg,ORIGINAL,SI,0.9634,22.9,OK,Sin coincidencia en Excel; se conserva nombre original
+IMG_2010.png,Luz_Pena.jpg,EXCEL,SI,0.9775,17.9,OK,Nombre tomado del Excel
+IMG_2017.png,IMG_2017.jpg,ORIGINAL,SI,0.9695,19.6,OK,Sin coincidencia en Excel; se conserva nombre original
+IMG_2029.png,Alejandro_Reategui.jpg,EXCEL,SI,0.9649,19.8,OK,Nombre tomado del Excel
+IMG_2037.png,IMG_2037.jpg,ORIGINAL,SI,0.9705,20.1,OK,Sin coincidencia en Excel; se conserva nombre original
+IMG_2044.png,IMG_2044.jpg,ORIGINAL,SI,0.948,17.1,OK,Sin coincidencia en Excel; se conserva nombre original
+IMG_2047.png,IMG_2047.jpg,ORIGINAL,SI,0.9627,17.5,OK,Sin coincidencia en Excel; se conserva nombre original
+IMG_2051.png,Edgar_Velasco.jpg,EXCEL,SI,0.9819,16.9,OK,Nombre tomado del Excel
+IMG_2055.png,IMG_2055.jpg,ORIGINAL,SI,0.9724,19.3,OK,Sin coincidencia en Excel; se conserva nombre original
+IMG_2059.png,Denis_Fernandez.jpg,EXCEL,SI,0.9801,30.1,OK,Nombre tomado del Excel
+IMG_2063.png,IMG_2063.jpg,ORIGINAL,SI,0.4593,34.5,OK,Sin coincidencia en Excel; se conserva nombre original
+IMG_2071.png,Jose_Requejo.jpg,EXCEL,SI,0.9774,23.7,OK,Nombre tomado del Excel
+IMG_2074.png,IMG_2074.jpg,ORIGINAL,SI,0.9727,24.2,OK,Sin coincidencia en Excel; se conserva nombre original
+IMG_2081.png,Vidal_Giraldo.jpg,EXCEL,SI,0.9707,45.1,OK,Nombre tomado del Excel
+IMG_2084.png,IMG_2084.jpg,ORIGINAL,SI,0.986,41.2,OK,Sin coincidencia en Excel; se conserva nombre original
+IMG_2093.png,Susan_Urrutea.jpg,EXCEL,SI,0.9578,45.3,OK,Nombre tomado del Excel
+IMG_2103.png,IMG_2103.jpg,ORIGINAL,SI,0.4986,35.9,OK,Sin coincidencia en Excel; se conserva nombre original
+IMG_2112.png,Teresa_Rau.jpg,EXCEL,SI,0.9848,23.9,OK,Nombre tomado del Excel
+IMG_2122.png,IMG_2122.jpg,ORIGINAL,SI,0.9401,21.1,OK,Sin coincidencia en Excel; se conserva nombre original
+IMG_2132.png,IMG_2132.jpg,ORIGINAL,SI,0.9611,20.3,OK,Sin coincidencia en Excel; se conserva nombre original
+IMG_2143.png,IMG_2143.jpg,ORIGINAL,SI,0.9731,20.5,OK,Sin coincidencia en Excel; se conserva nombre original
+IMG_2148.png,Rocio_Chirinos.jpg,EXCEL,SI,0.9776,18.3,OK,Nombre tomado del Excel
+IMG_2152.png,IMG_2152.jpg,ORIGINAL,SI,0.9701,19.7,OK,Sin coincidencia en Excel; se conserva nombre original
+IMG_2156.png,Luis_Alfredo_Sandoval.jpg,EXCEL,SI,0.9736,21.5,OK,Nombre tomado del Excel
+IMG_2172.png,IMG_2172.jpg,ORIGINAL,SI,0.965,22.0,OK,Sin coincidencia en Excel; se conserva nombre original
+IMG_2178.png,Angie_Torres.jpg,EXCEL,SI,0.9568,24.0,OK,Nombre tomado del Excel
+IMG_2182.png,IMG_2182.jpg,ORIGINAL,SI,0.9892,25.7,OK,Sin coincidencia en Excel; se conserva nombre original
+IMG_2188.png,Isabel_Condori.jpg,EXCEL,SI,0.9793,19.3,OK,Nombre tomado del Excel
+IMG_2198.png,IMG_2198.jpg,ORIGINAL,SI,0.9857,20.4,OK,Sin coincidencia en Excel; se conserva nombre original
+IMG_2199.png,Angelo_Pizarro.jpg,EXCEL,SI,0.9836,18.3,OK,Nombre tomado del Excel
+IMG_2209.png,IMG_2209.jpg,ORIGINAL,SI,0.9683,18.7,OK,Sin coincidencia en Excel; se conserva nombre original
+IMG_2217.png,Carmen_Lava.jpg,EXCEL,SI,0.9846,19.7,OK,Nombre tomado del Excel
+IMG_2223.png,IMG_2223.jpg,ORIGINAL,SI,0.9742,20.4,OK,Sin coincidencia en Excel; se conserva nombre original
+IMG_2240.png,Gretel_Cordova.jpg,EXCEL,SI,0.9762,21.9,OK,Nombre tomado del Excel
+IMG_2247.png,IMG_2247.jpg,ORIGINAL,SI,0.9872,20.4,OK,Sin coincidencia en Excel; se conserva nombre original
+IMG_2255.png,Jennifer_Briseno.jpg,EXCEL,SI,0.969,18.7,OK,Nombre tomado del Excel
+IMG_2266.png,IMG_2266.jpg,ORIGINAL,SI,0.9755,21.3,OK,Sin coincidencia en Excel; se conserva nombre original
+IMG_2267.png,Maria_Pacaya.jpg,EXCEL,SI,0.9597,21.7,OK,Nombre tomado del Excel
+IMG_2275.png,IMG_2275.jpg,ORIGINAL,SI,0.9629,22.3,OK,Sin coincidencia en Excel; se conserva nombre original
+IMG_2295.png,Jose_Cabrera.jpg,EXCEL,SI,0.9708,18.1,OK,Nombre tomado del Excel
+IMG_2318.png,IMG_2318.jpg,ORIGINAL,SI,0.9494,18.9,OK,Sin coincidencia en Excel; se conserva nombre original
+IMG_2335.png,Cristian_Sanchez.jpg,EXCEL,SI,0.9831,21.0,OK,Nombre tomado del Excel
+IMG_2341.png,IMG_2341.jpg,ORIGINAL,SI,0.9709,20.6,OK,Sin coincidencia en Excel; se conserva nombre original
+IMG_2345.png,Basilio_Munaya.jpg,EXCEL,SI,0.9818,28.3,OK,Nombre tomado del Excel
+IMG_2350.png,IMG_2350.jpg,ORIGINAL,SI,0.9831,28.4,OK,Sin coincidencia en Excel; se conserva nombre original
+IMG_2357.png,Alberto_Carbajal.jpg,EXCEL,SI,0.9833,26.0,OK,Nombre tomado del Excel
+IMG_2359.png,IMG_2359.jpg,ORIGINAL,SI,0.9815,27.7,OK,Sin coincidencia en Excel; se conserva nombre original
+IMG_2369.png,Jose_Casas.jpg,EXCEL,SI,0.9713,25.7,OK,Nombre tomado del Excel
+IMG_2371.png,IMG_2371.jpg,ORIGINAL,SI,0.9723,23.3,OK,Sin coincidencia en Excel; se conserva nombre original
+IMG_2374.png,Peter_Perez.jpg,EXCEL,SI,0.9646,19.5,OK,Nombre tomado del Excel
+IMG_2379.png,IMG_2379.jpg,ORIGINAL,SI,0.9851,19.2,OK,Sin coincidencia en Excel; se conserva nombre original
+IMG_2384.png,Jose_Injo.jpg,EXCEL,SI,0.9691,20.8,OK,Nombre tomado del Excel
+IMG_2386.png,IMG_2386.jpg,ORIGINAL,SI,0.9617,20.3,OK,Sin coincidencia en Excel; se conserva nombre original
+IMG_2391.png,Brallan_Huaman.jpg,EXCEL,SI,0.9748,18.2,OK,Nombre tomado del Excel
+IMG_2394.png,IMG_2394.jpg,ORIGINAL,SI,0.9872,19.6,OK,Sin coincidencia en Excel; se conserva nombre original
+IMG_2399.png,David_Custodio.jpg,EXCEL,SI,0.9818,21.3,OK,Nombre tomado del Excel
+IMG_2401.png,IMG_2401.jpg,ORIGINAL,SI,0.9814,22.1,OK,Sin coincidencia en Excel; se conserva nombre original
+IMG_2413.png,Pilar_Sanchez.jpg,EXCEL,SI,0.9797,16.8,OK,Nombre tomado del Excel
+IMG_2420.png,IMG_2420.jpg,ORIGINAL,SI,0.9874,18.7,OK,Sin coincidencia en Excel; se conserva nombre original
+IMG_2426.png,Frank_Huaman.jpg,EXCEL,SI,0.9862,32.4,OK,Nombre tomado del Excel
+IMG_2429.png,IMG_2429.jpg,ORIGINAL,SI,0.9818,28.6,OK,Sin coincidencia en Excel; se conserva nombre original
+IMG_2434.png,Wilson_Requejo.jpg,EXCEL,SI,0.9817,32.6,OK,Nombre tomado del Excel
+IMG_2438.png,IMG_2438.jpg,ORIGINAL,SI,0.5037,31.4,OK,Sin coincidencia en Excel; se conserva nombre original
+IMG_2442.png,Milena_Fulleda.jpg,EXCEL,SI,0.9929,29.9,OK,Nombre tomado del Excel
+IMG_2454.png,IMG_2454.jpg,ORIGINAL,SI,0.9773,33.1,OK,Sin coincidencia en Excel; se conserva nombre original
+IMG_2465.png,Lucia_Giron.jpg,EXCEL,SI,0.9833,17.2,OK,Nombre tomado del Excel
+IMG_2475.png,IMG_2475.jpg,ORIGINAL,SI,0.9681,17.2,OK,Sin coincidencia en Excel; se conserva nombre original
+IMG_2493.png,Minorka_Rodriguez.jpg,EXCEL,SI,0.9767,15.3,OK,Nombre tomado del Excel
+IMG_2496.png,IMG_2496.jpg,ORIGINAL,SI,0.9834,17.9,OK,Sin coincidencia en Excel; se conserva nombre original
+IMG_2520.png,Danaee_Toledo.jpg,EXCEL,SI,0.9691,22.2,OK,Nombre tomado del Excel
+IMG_2524.png,IMG_2524.jpg,ORIGINAL,SI,0.9698,19.2,OK,Sin coincidencia en Excel; se conserva nombre original
+IMG_2530.png,Alvaro_Cortez.jpg,EXCEL,SI,0.97,18.4,OK,Nombre tomado del Excel
+IMG_2533.png,IMG_2533.jpg,ORIGINAL,SI,0.9354,19.7,OK,Sin coincidencia en Excel; se conserva nombre original
+IMG_2536.png,Frank_Ynonan.jpg,EXCEL,SI,0.9664,15.7,OK,Nombre tomado del Excel
+IMG_2543.png,IMG_2543.jpg,ORIGINAL,SI,0.9722,15.0,OK,Sin coincidencia en Excel; se conserva nombre original
+IMG_2555.png,Valentry_Perez.jpg,EXCEL,SI,0.9396,19.3,OK,Nombre tomado del Excel
+IMG_2561.png,IMG_2561.jpg,ORIGINAL,SI,0.9727,18.5,OK,Sin coincidencia en Excel; se conserva nombre original
+IMG_2584.png,Gabriela_Jara.jpg,EXCEL,SI,0.9849,19.1,OK,Nombre tomado del Excel
+IMG_2586.png,IMG_2586.jpg,ORIGINAL,SI,0.9894,21.8,OK,Sin coincidencia en Excel; se conserva nombre original
+IMG_2595.png,Renzo_Montenegro.jpg,EXCEL,SI,0.9842,17.3,OK,Nombre tomado del Excel
+IMG_2609.png,IMG_2609.jpg,ORIGINAL,SI,0.9631,19.8,OK,Sin coincidencia en Excel; se conserva nombre original
+IMG_2610.png,Frank_Garcia_2.jpg,EXCEL,SI,0.9585,16.0,OK,Nombre tomado del Excel
+IMG_2618.png,William_Mendoza.jpg,EXCEL,SI,0.9551,17.7,OK,Nombre tomado del Excel
+IMG_2622.png,IMG_2622.jpg,ORIGINAL,SI,0.9746,19.7,OK,Sin coincidencia en Excel; se conserva nombre original
+IMG_2624.png,Dhanfer_Herrera.jpg,EXCEL,SI,0.9804,15.1,OK,Nombre tomado del Excel
+IMG_2629.png,IMG_2629.jpg,ORIGINAL,SI,0.9859,17.7,OK,Sin coincidencia en Excel; se conserva nombre original
+IMG_2648.png,Kenny_Goytendia.jpg,EXCEL,SI,0.976,16.5,OK,Nombre tomado del Excel
+IMG_2651.png,IMG_2651.jpg,ORIGINAL,SI,0.9725,18.3,OK,Sin coincidencia en Excel; se conserva nombre original
+IMG_2655.png,Carolina_Sotomayor.jpg,EXCEL,SI,0.9693,23.4,OK,Nombre tomado del Excel
+IMG_2663.png,IMG_2663.jpg,ORIGINAL,SI,0.9343,24.6,OK,Sin coincidencia en Excel; se conserva nombre original
+IMG_2704.png,Dala_Coronel.jpg,EXCEL,SI,0.9894,19.7,OK,Nombre tomado del Excel
+IMG_2730.png,IMG_2730.jpg,ORIGINAL,SI,0.9869,20.6,OK,Sin coincidencia en Excel; se conserva nombre original
+IMG_2737.png,Luis_Valle.jpg,EXCEL,SI,0.9813,24.8,OK,Nombre tomado del Excel
+IMG_2739.png,IMG_2739.jpg,ORIGINAL,SI,0.9797,23.9,OK,Sin coincidencia en Excel; se conserva nombre original
+IMG_2744.png,Jesus_Rodriguez.jpg,EXCEL,SI,0.9831,16.5,OK,Nombre tomado del Excel
+IMG_2747.png,IMG_2747.jpg,ORIGINAL,SI,0.9855,18.5,OK,Sin coincidencia en Excel; se conserva nombre original
+IMG_2752.png,Joel_Escobar.jpg,EXCEL,SI,0.9557,16.6,OK,Nombre tomado del Excel
+IMG_2753.png,IMG_2753.jpg,ORIGINAL,SI,0.9768,20.2,OK,Sin coincidencia en Excel; se conserva nombre original
+IMG_2770.png,Janet_Ascona.jpg,EXCEL,SI,0.9798,20.2,OK,Nombre tomado del Excel
+IMG_2781.png,IMG_2781.jpg,ORIGINAL,SI,0.9393,22.5,OK,Sin coincidencia en Excel; se conserva nombre original
+IMG_2791.png,Angelo_De_La_Gala.jpg,EXCEL,SI,0.9687,28.9,OK,Nombre tomado del Excel
+IMG_2795.png,IMG_2795.jpg,ORIGINAL,SI,0.542,28.0,OK,Sin coincidencia en Excel; se conserva nombre original
+IMG_2815.png,Freddy_Vasquez.jpg,EXCEL,SI,0.8878,14.8,OK,Nombre tomado del Excel
+IMG_2817.png,IMG_2817.jpg,ORIGINAL,SI,0.875,15.5,OK,Sin coincidencia en Excel; se conserva nombre original
+IMG_2828.png,Liseth_Rodriguez.jpg,EXCEL,SI,0.9529,24.1,OK,Nombre tomado del Excel
+IMG_2834.png,IMG_2834.jpg,ORIGINAL,SI,0.8788,19.4,OK,Sin coincidencia en Excel; se conserva nombre original
+IMG_2847 corbata ploma.png,IMG_2847_corbata_ploma.jpg,ORIGINAL,SI,0.9518,15.8,OK,Sin coincidencia en Excel; se conserva nombre original
+IMG_2861 corbata ploma.png,IMG_2861_corbata_ploma.jpg,ORIGINAL,SI,0.9737,18.5,OK,Sin coincidencia en Excel; se conserva nombre original
+IMG_2883.png,IMG_2883.jpg,ORIGINAL,SI,0.9225,17.9,OK,Sin coincidencia en Excel; se conserva nombre original
+IMG_2904.png,Armando_Ramirez.jpg,EXCEL,SI,0.9445,17.4,OK,Nombre tomado del Excel
+IMG_2909.png,IMG_2909.jpg,ORIGINAL,SI,0.9427,15.3,OK,Sin coincidencia en Excel; se conserva nombre original
+IMG_2916.png,IMG_2916.jpg,ORIGINAL,SI,0.9761,18.1,OK,Sin coincidencia en Excel; se conserva nombre original
+IMG_2924.png,IMG_2924.jpg,ORIGINAL,SI,0.9795,17.1,OK,Sin coincidencia en Excel; se conserva nombre original
+IMG_2926.png,Ivan_Riquero.jpg,EXCEL,SI,0.9583,22.9,OK,Nombre tomado del Excel
+IMG_2944.png,IMG_2944.jpg,ORIGINAL,SI,0.9384,24.3,OK,Sin coincidencia en Excel; se conserva nombre original
+IMG_2958.png,IMG_2958.jpg,ORIGINAL,SI,0.477,17.7,OK,Sin coincidencia en Excel; se conserva nombre original
+IMG_2969.png,Alberto_Quesada.jpg,EXCEL,SI,0.973,15.0,OK,Nombre tomado del Excel
+IMG_2976.png,IMG_2976.jpg,ORIGINAL,SI,0.98,16.0,OK,Sin coincidencia en Excel; se conserva nombre original
+IMG_2981.png,Ivo_Sanchez.jpg,EXCEL,SI,0.9614,22.1,OK,Nombre tomado del Excel
+IMG_2985.png,IMG_2985.jpg,ORIGINAL,SI,0.9445,22.5,OK,Sin coincidencia en Excel; se conserva nombre original
+IMG_2990.png,IMG_2990.jpg,ORIGINAL,SI,0.9639,16.0,OK,Sin coincidencia en Excel; se conserva nombre original
+IMG_2995.png,IMG_2995.jpg,ORIGINAL,SI,0.9614,16.9,OK,Sin coincidencia en Excel; se conserva nombre original
+IMG_3015.png,Rosario_Quinto.jpg,EXCEL,SI,0.9583,20.7,OK,Nombre tomado del Excel
+IMG_3025.png,IMG_3025.jpg,ORIGINAL,SI,0.9366,17.5,OK,Sin coincidencia en Excel; se conserva nombre original
+IMG_3036.png,Victor_Urrunaga.jpg,EXCEL,SI,0.9563,28.3,OK,Nombre tomado del Excel
+IMG_3057.png,Alex_Paredes.jpg,EXCEL,SI,0.9782,21.7,OK,Nombre tomado del Excel
+IMG_3068.png,IMG_3068.jpg,ORIGINAL,SI,0.9844,25.4,OK,Sin coincidencia en Excel; se conserva nombre original
+IMG_3070.png,Abraham_Munoz.jpg,EXCEL,SI,0.9461,19.8,OK,Nombre tomado del Excel
+IMG_3077.png,IMG_3077.jpg,ORIGINAL,SI,0.9518,21.6,OK,Sin coincidencia en Excel; se conserva nombre original
+IMG_3080.png,Angel_Cardoza.jpg,EXCEL,SI,0.9626,47.9,OK,Nombre tomado del Excel
+IMG_3083.png,IMG_3083.jpg,ORIGINAL,SI,0.9638,42.3,OK,Sin coincidencia en Excel; se conserva nombre original
+IMG_3088.png,Brayan_Gonzalez.jpg,EXCEL,SI,0.9848,23.2,OK,Nombre tomado del Excel
+IMG_3091.png,IMG_3091.jpg,ORIGINAL,SI,0.9667,22.9,OK,Sin coincidencia en Excel; se conserva nombre original
+IMG_3107.png,Wilda_Velasquez.jpg,EXCEL,SI,0.9539,17.7,OK,Nombre tomado del Excel
+IMG_3117.png,IMG_3117.jpg,ORIGINAL,SI,0.9044,17.3,OK,Sin coincidencia en Excel; se conserva nombre original
+IMG_3126.png,Erwin_Inga.jpg,EXCEL,SI,0.9771,18.7,OK,Nombre tomado del Excel
+IMG_3129.png,IMG_3129.jpg,ORIGINAL,SI,0.9769,20.0,OK,Sin coincidencia en Excel; se conserva nombre original
+IMG_3140.png,Denisse_Caceres.jpg,EXCEL,SI,0.9551,26.9,OK,Nombre tomado del Excel
+IMG_3158.png,IMG_3158.jpg,ORIGINAL,SI,0.975,25.1,OK,Sin coincidencia en Excel; se conserva nombre original
+IVAN SALAZAR2.png,IVAN_SALAZAR2.jpg,ORIGINAL,SI,0.9614,17.6,OK,Sin coincidencia en Excel; se conserva nombre original
+JAVIER RODRIGUEZ2.png,JAVIER_RODRIGUEZ2.jpg,ORIGINAL,SI,0.9453,17.9,OK,Sin coincidencia en Excel; se conserva nombre original
+JUAN LUIS2.png,JUAN_LUIS2.jpg,ORIGINAL,SI,0.9745,19.0,OK,Sin coincidencia en Excel; se conserva nombre original
+JULIO ILLATOPA2.png,JULIO_ILLATOPA2.jpg,ORIGINAL,SI,0.9341,21.9,OK,Sin coincidencia en Excel; se conserva nombre original
+RENATO GENTILLE2.png,RENATO_GENTILLE2.jpg,ORIGINAL,SI,0.9711,28.4,OK,Sin coincidencia en Excel; se conserva nombre original
+RENZO2.png,RENZO2.jpg,ORIGINAL,SI,0.9554,18.4,OK,Sin coincidencia en Excel; se conserva nombre original
+sandro morales2.png,sandro_morales2.jpg,ORIGINAL,SI,0.9538,19.4,OK,Sin coincidencia en Excel; se conserva nombre original
+YERCY AQUINO2.png,YERCY_AQUINO2.jpg,ORIGINAL,SI,0.9702,23.5,OK,Sin coincidencia en Excel; se conserva nombre original
